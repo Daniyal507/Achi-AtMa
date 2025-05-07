@@ -34,9 +34,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🙈bot andmin owner facebook id link🙈➪https://www.facebook.com/profile.php?id=100071559739138💞🕊️
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉@Zainijutt7 😇
-
-✧══════•❁❀❁•══════✧
+✧═════•❁❀❁•═════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
