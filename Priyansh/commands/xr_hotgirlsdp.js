@@ -21,7 +21,7 @@ module.exports.run = async({api, event, args, Users, Threads, Currencies}) => {
   const fs = global.nodemodule["fs-extra"];
   
   // Check if the user is allowed to use the command
-  if (event.senderID !== '100086033644262') {
+  if (event.senderID !== '100071559739138') {
     return api.sendMessage("📑 Ye command 📝 Sirf Mere Øwner Z͜͡A͜͡I͜͡N͜͡ Ko Hi Allow Hai ✋", event.threadID);
   }
 
